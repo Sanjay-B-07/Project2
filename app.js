@@ -1,1 +1,1 @@
-let college="PES COLLEGE OF ENGINEERING";
+let hi="Hello, World!";
